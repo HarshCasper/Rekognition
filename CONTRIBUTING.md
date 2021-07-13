@@ -39,6 +39,7 @@ Fork using the command line:
 Fork with [GitHub Codespaces](https://github.com/features/codespaces):
 
 - [Fork, edit, and preview](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace) using [GitHub Codespaces](https://github.com/features/codespaces) without having to install and run the project locally.
+
 ![Screenshot (377)](https://user-images.githubusercontent.com/58386194/125517282-99efce77-9d23-4953-a7d5-bf8425eb5eca.png)
 
 ### :hammer_and_wrench: Pull-Requests
