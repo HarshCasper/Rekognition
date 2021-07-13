@@ -46,4 +46,11 @@ Fork with [GitHub Codespaces](https://github.com/features/codespaces):
 ![Screenshot (377)](https://user-images.githubusercontent.com/58386194/125517282-99efce77-9d23-4953-a7d5-bf8425eb5eca.png)
 
 ### :hammer_and_wrench: Pull-Requests
+
+- Creating a Pull Request
+
+![Screenshot (383)](https://user-images.githubusercontent.com/58386194/125531307-c4c38505-cca9-4cb8-ae39-6fb6c7b3a887.png)
+
+- Pull Request Added Successfully
+
 ![Screenshot (378)](https://user-images.githubusercontent.com/58386194/125516316-5b2a3f34-d563-4cc1-84c6-07336791a777.png)
