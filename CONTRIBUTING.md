@@ -13,7 +13,6 @@ The following links can help you read through some basics of git and github. Fee
 
 ## Work Flow
 - [Types of contributions :memo:](#types-of-contributions-memo)
-  - [:mega: Discussions](#mega-discussions)
   - [:beetle: Issues](#beetle-issues)
   - [:fork_and_knife: Forking](#fork_and_knife-Forking)
   - [:hammer_and_wrench: Pull requests](#hammer_and_wrench-pull-requests)
