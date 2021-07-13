@@ -17,9 +17,6 @@ The following links can help you read through some basics of git and github. Fee
   - [:beetle: Issues](#beetle-issues)
   - [:fork_and_knife: Forking](#fork_and_knife-Forking)
   - [:hammer_and_wrench: Pull requests](#hammer_and_wrench-pull-requests)
-  - [:question: Support](#question-support)
-  - [:earth_asia: Translations](#earth_asia-translations)
-  - [:balance_scale: Site Policy](#balance_scale-site-policy)
 
 ### :beetle: Issues
 - Check out the latest issues
